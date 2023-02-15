@@ -1,0 +1,13 @@
+a=10
+b=2
+print(a)
+print(b)
+print(a+b)
+print()
+print(a,b,a+b,end="::")
+#print(b,end="::")
+#print(a+b,end="..")
+print()
+print(a,end="+")
+print(b,end="=")
+print(a+b)
